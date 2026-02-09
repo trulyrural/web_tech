@@ -1,1 +1,102 @@
-hello world
+<!DOCTYPE html>
+<html>
+<head>
+    <title>kayanosaurus Portfolio</title>
+</head>
+
+<body>
+
+<div>
+    <h1>Kayanosaurus</h1>
+    <h3>Art Director & Photographer</h3>
+    <hr>
+</div>
+
+<div>
+
+    <div>
+
+        <h3>Portfolio Images (i am confused about the photo part so they are empty :))</h3>
+
+        <img src="" alt="Photo 1" width="200" height="130"><br><br>
+
+        <img src="" alt="Photo 2" width="200" height="130"><br><br>
+
+        <img src="" alt="Photo 3" width="200" height="130"><br><br>
+
+        <img src="" alt="Photo 4" width="200" height="130"><br><br>
+
+    </div>
+
+    <hr>
+
+    <div>
+
+        <p>
+            Passionate art curator and web designer crazy about technology and
+            looking to fulfill her mission as an artist: create a better world.
+        </p>
+
+        <h2>Professional Profile</h2>
+
+        <p>
+            As an Art Director I was often employed by advertising agencies and so
+            would be responsible for coordinating members of the creative team.
+        </p>
+
+        <ul>
+            <li>Prepared all sales pages, layouts, and presentations for all accounts.</li>
+            <li>Processed, archived and managed over 25,000 electronic art files.</li>
+            <li>Created over 20 product catalogs in each category.</li>
+        </ul>
+
+        <h2>Work Experience</h2>
+
+        <h3>Art Director, ABC Designs</h3>
+        <p>2002 – Present</p>
+
+        <ul>
+            <li>Designed communication and marketing materials for events.</li>
+            <li>Assisted photographers and illustrators.</li>
+            <li>Directed shoots and coordinated with stylists and editors.</li>
+        </ul>
+
+        <h3>Designer, Blue Elephant Design</h3>
+        <p>1997 – 2002</p>
+
+        <ul>
+            <li>Collaborated with design staff for product launches.</li>
+            <li>Helped describe product requirements for usability.</li>
+            <li>Developed wireframes, graphics and prototypes.</li>
+        </ul>
+
+        <h2>Skills</h2>
+
+        <h3>Creative Skills</h3>
+        <ul>
+            <li>Art Direction</li>
+            <li>Graphic Design</li>
+            <li>Web Design</li>
+            <li>Photo Direction</li>
+            <li>Creative Direction</li>
+            <li>Management</li>
+            <li>Teaching</li>
+        </ul>
+
+        <h3>Technical Skills</h3>
+        <ul>
+            <li>Adobe Creative Suite</li>
+            <li>Adobe InCopy</li>
+            <li>QuarkXPress</li>
+            <li>Microsoft Office</li>
+            <li>XHTML</li>
+            <li>HTML5</li>
+            <li>SEO</li>
+        </ul>
+
+    </div>
+
+</div>
+
+</body>
+</html>
