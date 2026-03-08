@@ -1,0 +1,75 @@
+/* Reset some default styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0 20px;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #222;
+    color: #fff;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header h3 {
+    margin-top: 5px;
+    font-weight: normal;
+    font-size: 1.2em;
+}
+
+hr {
+    border: 1px solid #ccc;
+    margin: 20px 0;
+}
+
+.portfolio {
+    padding: 20px 0;
+}
+
+.portfolio h3 {
+    text-align: center;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.images img {
+    border: 2px solid #222;
+    border-radius: 8px;
+    transition: transform 0.3s;
+}
+
+.images img:hover {
+    transform: scale(1.1);
+}
+
+.about {
+    padding: 20px 0;
+}
+
+h2 {
+    color: #222;
+    border-bottom: 2px solid #222;
+    padding-bottom: 5px;
+}
+
+ul {
+    margin: 10px 0 20px 20px;
+}
+
+p {
+    margin: 10px 0;
+}
